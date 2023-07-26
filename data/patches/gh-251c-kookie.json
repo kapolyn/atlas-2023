@@ -1,0 +1,58 @@
+{
+	"id": -1,
+	"name": "Kookie",
+	"description": "'Kookie' is the name of a brazilian social media, as well as the little blue ghost that represents it. The microblog was created by Sam Nuloer and developed by Lucas López as a form of brazilian community express themselves and interact with each other. Currently (July, 2023), Kookie is the biggest brazilian microblog. The pixel art itself was designed by user \"frupvy\".",
+	"links": {
+		"website": [
+			"https://kookie.com.br/"
+		],
+		"subreddit": [
+			"kookieapp"
+		],
+		"discord": [
+			"6gVpcpUBbM"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				1002,
+				225
+			],
+			[
+				1014,
+				225
+			],
+			[
+				1014,
+				241
+			],
+			[
+				1019,
+				241
+			],
+			[
+				1019,
+				248
+			],
+			[
+				1001,
+				248
+			],
+			[
+				1001,
+				225
+			],
+			[
+				1002,
+				225
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1007,
+			237
+		]
+	}
+}
